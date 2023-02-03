@@ -7,12 +7,12 @@ The goal for this repo is to have a broad range of technical exercises for all a
 
 ## Getting involved
 
-#### Have a go at one of the exercises
+### Have a go at one of the exercises
 
 Pre-requisites:
-    - A github account
-    - Access to a unix terminal (if you're on windows, you'll either need to download [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) or [GitBash](https://gitforwindows.org/) )
-    - Somewhere to write your code. There are lots of IDE's out there and people have very strong opinions about which ones to use - if you don't have a strong opinion, then VSCode is probably your best bet as a good "all rounder"
+* A github account
+* Access to a unix terminal (if you're on windows, you'll either need to download [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) or [GitBash](https://gitforwindows.org/) )
+* Somewhere to write your code. There are lots of IDE's out there and people have very strong opinions about which ones to use - if you don't have a strong opinion, then VSCode is probably your best bet as a good "all
 
 Steps:
     
@@ -32,9 +32,7 @@ Don't forget to commit and push regularly and remember: good code without tests 
 
 4. Create a pull request
 
-When you're finished, make sure you've committed and pushed your latest code, then open a pull request against the main branch on Github [like so](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-Nice work!
+When you're finished, make sure you've committed and pushed your latest code, then open a pull request against the main branch on Github [like so](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Nice work!
 
 5. Get some feedback
 
@@ -45,7 +43,7 @@ Once you've finished, post a link to your PR in the #tech-skill channel to ask f
 Possibly the most important part! Use the feedback you've received to improve your code! You may end up repeating steps 5 and 6 several times until you're happy with your code. Once you're done, there's no need to do anything - the pull request you've created will be a good reference for others wanting to try the exercise if they're stuck or looking for inspiration!
 
 
-#### Create a new exercise
+### Creating a new exercise
 
 1. Create a set of instructions
 
